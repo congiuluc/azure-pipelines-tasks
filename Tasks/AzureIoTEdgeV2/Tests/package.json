@@ -21,6 +21,6 @@
     "@types/node": "^10.17.0",
     "@types/q": "^1.0.7",
     "azure-pipelines-task-lib": "^3.3.1",
-    "minimatch": "^3.1.2"
+    "minimatch": "^3.1.4"
   }
 }
