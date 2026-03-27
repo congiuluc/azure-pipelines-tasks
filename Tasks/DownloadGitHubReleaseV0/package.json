@@ -19,8 +19,8 @@
   "dependencies": {
     "@types/mocha": "^5.2.7",
     "@types/node": "^16.11.39",
-    "artifact-engine": "^1.1.0",
-    "azure-pipelines-task-lib": "^4.0.0-preview",
+    "artifact-engine": "^1.271.1",
+    "azure-pipelines-task-lib": "^5.2.8",
     "nock": "^9.6.1",
     "typed-rest-client": "^1.8.9"
   },
