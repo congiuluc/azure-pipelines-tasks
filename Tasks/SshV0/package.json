@@ -8,7 +8,7 @@
     "azure-pipelines-task-lib": "^4.0.0-preview",
     "ssh2": "^1.10.0",
     "ssh2-sftp-client": "^8.1.0",
-    "uuid": "^3.2.1"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "typescript": "4.0.2"
